@@ -1,0 +1,1590 @@
+Package: aircard-pcmcia-firmware
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 437
+Filename: aircard-pcmcia-firmware_20220411-1_mipsel_24kc.ipk
+Size: 1182
+SHA256sum: 33f574943fe04be3565846dce6e612705867a38ecd11c3ddaac1c286faf0b91b
+Description:  Sierra Wireless Aircard 555/7xx/8x0 firmware
+
+Package: amdgpu-firmware
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 21424010
+Filename: amdgpu-firmware_20220411-1_mipsel_24kc.ipk
+Size: 21236358
+SHA256sum: b4866c6966414ff10805347ecd58085b2078523b08b63678853f9e9ddaf87ea1
+Description:  AMDGPU Video Driver firmware
+
+Package: ar3k-firmware
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 784667
+Filename: ar3k-firmware_20220411-1_mipsel_24kc.ipk
+Size: 784736
+SHA256sum: b527303fb08716feb7d15f701495224f99a3b6808a9b1797f8142cb571fcdefd
+Description:  ath3k firmware
+
+Package: ath10k-board-qca4019
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 30566
+Filename: ath10k-board-qca4019_20220411-1_mipsel_24kc.ipk
+Size: 30667
+SHA256sum: 6a0cbc48aa31d1dd192989c22d11c2cd2f19d207510b14e3a3aea952dfaa844c
+Description:  ath10k qca4019 board firmware
+
+Package: ath10k-board-qca9377
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 8371
+Filename: ath10k-board-qca9377_20220411-1_mipsel_24kc.ipk
+Size: 7695
+SHA256sum: 535b77e30f2c63d8e72768b9564830b5acb3f2e9b2286dc8066ad3695e099ae1
+Description:  ath10k qca9377 board firmware
+
+Package: ath10k-board-qca9887
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 671
+Filename: ath10k-board-qca9887_20220411-1_mipsel_24kc.ipk
+Size: 1394
+SHA256sum: 7e8a504c3b9f6061f95f2ea70a5eff8b4f2ce63ec4c17e5e5a37003ee122efa0
+Description:  ath10k qca9887 board firmware
+
+Package: ath10k-board-qca9888
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 4813
+Filename: ath10k-board-qca9888_20220411-1_mipsel_24kc.ipk
+Size: 5410
+SHA256sum: cd7a0d2686ade050069fdf05fec7d6657919973e521b193ac45262879a0fe321
+Description:  ath10k qca9888 board firmware
+
+Package: ath10k-board-qca988x
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 770
+Filename: ath10k-board-qca988x_20220411-1_mipsel_24kc.ipk
+Size: 1512
+SHA256sum: 0ed96d1cfae124c619be169f7fac61bca00c2101815287771c2ff8db6a65e72c
+Description:  ath10k qca988x board firmware
+
+Package: ath10k-board-qca9984
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 9792
+Filename: ath10k-board-qca9984_20220411-1_mipsel_24kc.ipk
+Size: 10441
+SHA256sum: ef2aefd52e83dba4376878a0c7ff55b474c44fb8857d60bac8e76fddfebed5b1
+Description:  ath10k qca9984 board firmware
+
+Package: ath10k-board-qca99x0
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 7121
+Filename: ath10k-board-qca99x0_20220411-1_mipsel_24kc.ipk
+Size: 7559
+SHA256sum: bb78c65cccddbd3b6b7990d2852d2d96baf3467f2a7f3faba03301575f84c3ed
+Description:  ath10k qca99x0 board firmware
+
+Package: ath10k-firmware-qca4019
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 466963
+Filename: ath10k-firmware-qca4019_20220411-1_mipsel_24kc.ipk
+Size: 466238
+SHA256sum: bb22a9874a0287e4793d36a277fce92520528ab5510aa45731d08462e35f6e30
+Description:  ath10k qca4019 firmware
+
+Package: ath10k-firmware-qca6174
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 870926
+Filename: ath10k-firmware-qca6174_20220411-1_mipsel_24kc.ipk
+Size: 868356
+SHA256sum: f935ab2eb6e394cd38d0272126291c124f32996d0551d4b5eaed2cc19e3fc8db
+Description:  ath10k qca6174 firmware
+
+Package: ath10k-firmware-qca9377
+Version: 20220411-1
+Depends: libc, ath10k-board-qca9377
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 524148
+Filename: ath10k-firmware-qca9377_20220411-1_mipsel_24kc.ipk
+Size: 524285
+SHA256sum: eb056283f886fe8677deeff67f7d8146d6ccae12ccebd4a7912da36e7ba139c0
+Description:  ath10k qca9377 firmware
+
+Package: ath10k-firmware-qca9887
+Version: 20220411-1
+Depends: libc, ath10k-board-qca9887
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 208910
+Filename: ath10k-firmware-qca9887_20220411-1_mipsel_24kc.ipk
+Size: 209771
+SHA256sum: d7df0c3d49bd9011bbe8e5c8f0a753b2744fe05f19bc53d9c78551f9e5a73700
+Description:  ath10k qca9887 firmware
+
+Package: ath10k-firmware-qca9888
+Version: 20220411-1
+Depends: libc, ath10k-board-qca9888
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 527236
+Filename: ath10k-firmware-qca9888_20220411-1_mipsel_24kc.ipk
+Size: 526966
+SHA256sum: 84684c0ddf9e2ed5a6e97c79432217ac7258628c1057522c4519c80703268b0c
+Description:  ath10k qca9888 firmware
+
+Package: ath10k-firmware-qca988x
+Version: 20220411-1
+Depends: libc, ath10k-board-qca988x
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 218878
+Filename: ath10k-firmware-qca988x_20220411-1_mipsel_24kc.ipk
+Size: 219744
+SHA256sum: 30c12d524ab3c3a40a5a96bf0f43db8f4202d40e48ea4b2f3e2320eed84d5af7
+Description:  ath10k qca988x firmware
+
+Package: ath10k-firmware-qca9984
+Version: 20220411-1
+Depends: libc, ath10k-board-qca9984
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 521672
+Filename: ath10k-firmware-qca9984_20220411-1_mipsel_24kc.ipk
+Size: 518489
+SHA256sum: 6551ca0ff3f6c460f01f4e0b0977af0c4591ec74e94b969bf70e2bddf8e8b108
+Description:  ath10k qca9984 firmware
+
+Package: ath10k-firmware-qca99x0
+Version: 20220411-1
+Depends: libc, ath10k-board-qca99x0
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 373680
+Filename: ath10k-firmware-qca99x0_20220411-1_mipsel_24kc.ipk
+Size: 371872
+SHA256sum: 5886cc1bcb08fcf92702c3a9e6f73db8b2846fa62c6531d2b24d21c4f900d535
+Description:  ath10k qca99x0 firmware
+
+Package: ath6k-firmware
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 712104
+Filename: ath6k-firmware_20220411-1_mipsel_24kc.ipk
+Size: 712842
+SHA256sum: c50a1573c4da544fbb3bf710a6f4d993469bb35657d4504d1be6da3fc061b795
+Description:  AR600X firmware
+
+Package: ath9k-htc-firmware
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 61876
+Filename: ath9k-htc-firmware_20220411-1_mipsel_24kc.ipk
+Size: 62356
+SHA256sum: aff42e78149c3308dae7f74a06eba9f490a284cb00b8a2408492de6ea6693ef2
+Description:  AR9271/AR7010 firmware
+
+Package: bnx2-firmware
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 705110
+Filename: bnx2-firmware_20220411-1_mipsel_24kc.ipk
+Size: 705213
+SHA256sum: b0dfde1d09b83a7f24e1590075dd869e8d810e1041b410df0fe40d42d2941912
+Description:  Broadcom BCM5706/5708/5709/5716 firmware
+
+Package: bnx2x-firmware
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 9777978
+Filename: bnx2x-firmware_20220411-1_mipsel_24kc.ipk
+Size: 9744043
+SHA256sum: de5f454a3fb65fb9be75feddd6604b73ff36a7be96ca9ca98bc5eb12429b4a06
+Description:  =QLogic 5771x/578xx firmware
+
+Package: brcmfmac-firmware-4329-sdio
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 177015
+Filename: brcmfmac-firmware-4329-sdio_20220411-1_mipsel_24kc.ipk
+Size: 177831
+SHA256sum: 35a94721a2b6743e9f6924780bd3de8688525d777a4b5322f9cdb88f13fd9942
+Description:  Broadcom BCM4329 FullMac SDIO firmware
+
+Package: brcmfmac-firmware-43430-sdio-rpi-3b
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 745
+Filename: brcmfmac-firmware-43430-sdio-rpi-3b_20220411-1_mipsel_24kc.ipk
+Size: 1505
+SHA256sum: 2262858b6df35898359fffe9cffd58eb2070ce5f9cbf17a463ddb32063d30696
+Description:  Broadcom BCM43430 NVRAM for Raspberry Pi 3B
+
+Package: brcmfmac-firmware-43430-sdio-rpi-zero-w
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 752
+Filename: brcmfmac-firmware-43430-sdio-rpi-zero-w_20220411-1_mipsel_24kc.ipk
+Size: 1526
+SHA256sum: 12528527253064223a2f12c232fb6a18dca3b865ec70a387bf80a1fd65393f9d
+Description:  Broadcom BCM43430 NVRAM for Raspberry Pi Zero W
+
+Package: brcmfmac-firmware-43430a0-sdio
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 259120
+Filename: brcmfmac-firmware-43430a0-sdio_20220411-1_mipsel_24kc.ipk
+Size: 259905
+SHA256sum: a6bfb80c8045b069472a6b6cffe089623524bfeeba9374426ef08bf9af8ed521
+Description:  Broadcom BCM43430a0 FullMac SDIO firmware
+
+Package: brcmfmac-firmware-43455-sdio-rpi-3b-plus
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 1085
+Filename: brcmfmac-firmware-43455-sdio-rpi-3b-plus_20220411-1_mipsel_24kc.ipk
+Size: 1861
+SHA256sum: 7182667effb0703d7dca35aaebb21662233fd3854c316b75eb213dbd3e131bcc
+Description:  Broadcom BCM43455 NVRAM for Raspberry Pi 3B+
+
+Package: brcmfmac-firmware-43455-sdio-rpi-4b
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 1080
+Filename: brcmfmac-firmware-43455-sdio-rpi-4b_20220411-1_mipsel_24kc.ipk
+Size: 1845
+SHA256sum: 0b35ab16bf63b81816e13d4d2a6166a4da78fed784f55cd891fd01de1cefa43e
+Description:  Broadcom BCM43455 NVRAM for Raspberry Pi 4B
+
+Package: brcmfmac-firmware-43602a1-pcie
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 370269
+Filename: brcmfmac-firmware-43602a1-pcie_20220411-1_mipsel_24kc.ipk
+Size: 370411
+SHA256sum: 34fbc0406dfb3974c707d146aac87b2f80727fd49767a3ce60d128575bd9b51c
+Description:  Broadcom 43602a1 FullMAC PCIe firmware
+
+Package: brcmfmac-firmware-4366b1-pcie
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 637323
+Filename: brcmfmac-firmware-4366b1-pcie_20220411-1_mipsel_24kc.ipk
+Size: 637066
+SHA256sum: f578236c6864c1f7fb8a28380243f30f33ec77f8c012fe03f8e216ddf6533167
+Description:  Broadcom 4366b1 FullMAC PCIe firmware
+
+Package: brcmfmac-firmware-4366c0-pcie
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 647587
+Filename: brcmfmac-firmware-4366c0-pcie_20220411-1_mipsel_24kc.ipk
+Size: 647256
+SHA256sum: c4ef35d90df007661ac649244cfffc6d707a079869e069c78f70919e92ef8eca
+Description:  Broadcom 4366c0 FullMAC PCIe firmware
+
+Package: brcmfmac-firmware-usb
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 502980
+Filename: brcmfmac-firmware-usb_20220411-1_mipsel_24kc.ipk
+Size: 503668
+SHA256sum: 62214df832e5c97aa505d3d247221d67dc5482d19059188e7a2dd26b01b342ea
+Description:  Broadcom BCM43xx fullmac USB firmware
+
+Package: brcmsmac-firmware
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 42181
+Filename: brcmsmac-firmware_20220411-1_mipsel_24kc.ipk
+Size: 42564
+SHA256sum: d32ec92de34da06763501621fae17ad4d31202d8e12ca5e148f43fda75d08673
+Description:  Broadcom BCM43xx softmac PCIe firmware
+
+Package: carl9170-firmware
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 9763
+Filename: carl9170-firmware_20220411-1_mipsel_24kc.ipk
+Size: 10506
+SHA256sum: d863b26d22e6c240983f6f31cc6ed78e5e88ff89108a97acfb755c19771a6adc
+Description:  AR9170 firmware
+
+Package: e100-firmware
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 833
+Filename: e100-firmware_20220411-1_mipsel_24kc.ipk
+Size: 1558
+SHA256sum: 8df023359f518176399889758123558d04fa068e8d76e21644fe964575dd1199
+Description:  Intel e100
+
+Package: edgeport-firmware
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 18899
+Filename: edgeport-firmware_20220411-1_mipsel_24kc.ipk
+Size: 19595
+SHA256sum: 9ecbe35e11ec7d16013ecd2918f41a9c8ef0a1adc02203064564a58cfb798459
+Description:  USB Inside Out Edgeport Serial Driver firmware
+
+Package: eip197-mini-firmware
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 423
+Filename: eip197-mini-firmware_20220411-1_mipsel_24kc.ipk
+Size: 1158
+SHA256sum: 155a132450876d92746cc91761775a8773898430c59132fb96cc43bc7ebd9346
+Description:  Inside Secure EIP197 mini firmware
+
+Package: firewall4
+Version: 2022-10-18-7ae5e14b-1
+Depends: ucode (>= 2022-03-22), libc, kmod-nft-core, kmod-nft-fib, kmod-nft-offload, kmod-nft-nat, nftables-json, ucode, ucode-mod-fs, ucode-mod-ubus, ucode-mod-uci
+Provides: uci-firewall
+License: ISC
+Section: net
+Architecture: mipsel_24kc
+Installed-Size: 27855
+Filename: firewall4_2022-10-18-7ae5e14b-1_mipsel_24kc.ipk
+Size: 28803
+SHA256sum: 63ed5114193cc452b17cc815a045447bb98390bd991324e24b4cf9efdfbfe2c7
+Description:  This package provides an nftables-based implementation of the UCI firewall
+ sharing the same configuration format.
+
+Package: firewall
+Version: 2022-02-17-4cd7d4f3-3
+Depends: libc, libubox20220515, libubus20220601, libuci20130104, libip4tc2, libip6tc2, libiptext0, libiptext6-0, libxtables12, kmod-ipt-core, kmod-ipt-conntrack, kmod-nf-conntrack6, kmod-ipt-nat
+Conflicts: firewall4
+Provides: uci-firewall
+License: ISC
+Section: net
+Architecture: mipsel_24kc
+Installed-Size: 41343
+Filename: firewall_2022-02-17-4cd7d4f3-3_mipsel_24kc.ipk
+Size: 42266
+SHA256sum: 53b2dcd2500d8510a8e4717771beeed85dd80e92a38f629e7fdecda569fc6d9f
+Description:  This package provides a config-compatible C implementation of the UCI firewall.
+
+Package: ibt-firmware
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 117213
+Filename: ibt-firmware_20220411-1_mipsel_24kc.ipk
+Size: 117694
+SHA256sum: 82f845c2633e25ace464fccbd6f7b0e13d28e810ba72f9ed5c055e29244850e3
+Description:  Intel bluetooth firmware
+
+Package: iwl3945-firmware
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 63574
+Filename: iwl3945-firmware_20220411-1_mipsel_24kc.ipk
+Size: 64211
+SHA256sum: a440a21cfe263e5889e2bfcf533d0217fa63c038d31eb9aa82b31b191c3fedf0
+Description:  Intel IWL3945 firmware
+
+Package: iwl4965-firmware
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 78624
+Filename: iwl4965-firmware_20220411-1_mipsel_24kc.ipk
+Size: 79205
+SHA256sum: 24b3515aec3debcd884aec5fcad1421e97c4b967c79d48016e89deaee5a12638
+Description:  Intel IWL4965 firmware
+
+Package: iwlwifi-firmware-ax200
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 522478
+Filename: iwlwifi-firmware-ax200_20220411-1_mipsel_24kc.ipk
+Size: 521993
+SHA256sum: ce981b1d942e8d682ed33e12c7bb7048bf0c421b4874f4cc50d4498d4d619a5b
+Description:  Intel AX200 firmware
+
+Package: iwlwifi-firmware-ax210
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 583591
+Filename: iwlwifi-firmware-ax210_20220411-1_mipsel_24kc.ipk
+Size: 582673
+SHA256sum: afe4051a7a02e965ab322c69bc175062c25c41b850db852a408dbce5907add41
+Description:  Intel AX210 firmware
+
+Package: iwlwifi-firmware-iwl1000
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 176987
+Filename: iwlwifi-firmware-iwl1000_20220411-1_mipsel_24kc.ipk
+Size: 177655
+SHA256sum: 0511b01bce822b919431bf54ee8f393374951dfc6855161bdc6df8b841b8d1ac
+Description:  Intel Centrino Wireless-N 1000 firmware
+
+Package: iwlwifi-firmware-iwl100
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 176993
+Filename: iwlwifi-firmware-iwl100_20220411-1_mipsel_24kc.ipk
+Size: 177675
+SHA256sum: ab3e874d578556d8e1c049a952aa428fc8aad56c3bb48f11cf8bd0bd8d0ac7f0
+Description:  Intel Centrino Wireless-N 100 firmware
+
+Package: iwlwifi-firmware-iwl105
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 332945
+Filename: iwlwifi-firmware-iwl105_20220411-1_mipsel_24kc.ipk
+Size: 333278
+SHA256sum: 69d85058ffb7ade863b365125e28c5c147cf3cb534e63e114e6486a9c2147060
+Description:  Intel Centrino Wireless-N 105 firmware
+
+Package: iwlwifi-firmware-iwl135
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 341796
+Filename: iwlwifi-firmware-iwl135_20220411-1_mipsel_24kc.ipk
+Size: 342002
+SHA256sum: a0cb1929aa3aab9c67ea3d508e7605d8a7ccc42e35f323a10bdc319b15c88971
+Description:  Intel Centrino Wireless-N 135 firmware
+
+Package: iwlwifi-firmware-iwl2000
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 338716
+Filename: iwlwifi-firmware-iwl2000_20220411-1_mipsel_24kc.ipk
+Size: 339086
+SHA256sum: c7dbc817a9f20d177fb51a839e7f23e37afa75820634a63b30cc2117255365c1
+Description:  Intel Centrino Wireless-N 2200 firmware
+
+Package: iwlwifi-firmware-iwl2030
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 347307
+Filename: iwlwifi-firmware-iwl2030_20220411-1_mipsel_24kc.ipk
+Size: 347760
+SHA256sum: 88e8eae4c930dbdf30964644232f3c1ddcf72ec055465a38b18056cf9dcf8897
+Description:  Intel Centrino Wireless-N 2230 firmware
+
+Package: iwlwifi-firmware-iwl3160
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 465837
+Filename: iwlwifi-firmware-iwl3160_20220411-1_mipsel_24kc.ipk
+Size: 466029
+SHA256sum: 2bf2f3288b3125e8e0da830716d6e54d89ec88ee27cf7f4f8bfb7e9722e8f948
+Description:  Intel Wireless 3160 firmware
+
+Package: iwlwifi-firmware-iwl3168
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 451509
+Filename: iwlwifi-firmware-iwl3168_20220411-1_mipsel_24kc.ipk
+Size: 451408
+SHA256sum: cfdc344f28fa2046104ba16381c83d921fee619308194dc0272477763ee40a80
+Description:  Intel Wireless 3168 firmware
+
+Package: iwlwifi-firmware-iwl5000
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 177063
+Filename: iwlwifi-firmware-iwl5000_20220411-1_mipsel_24kc.ipk
+Size: 177795
+SHA256sum: 448083cc243a7f5df1a2fce96223e8a82ad8a6cdd51d7102a40db53f4f9eb606
+Description:  Intel Wireless 5100AGN 5300AGN and 5350AGN firmware
+
+Package: iwlwifi-firmware-iwl5150
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 174128
+Filename: iwlwifi-firmware-iwl5150_20220411-1_mipsel_24kc.ipk
+Size: 174791
+SHA256sum: ba7bc4ed6127b0f80da0d60d1d04809a64d4f9a45c334fdd814f27cd15034b3b
+Description:  Intel Wireless Wi-Fi 5150AGN firmware
+
+Package: iwlwifi-firmware-iwl6000g2
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 212878
+Filename: iwlwifi-firmware-iwl6000g2_20220411-1_mipsel_24kc.ipk
+Size: 213364
+SHA256sum: 7a3a33f744ded2bc60c1deda06e7eb0960d48c5890ffd2ae745d82ee2c8f1ceb
+Description:  Intel Centrino 6300 and 6200 firmware
+
+Package: iwlwifi-firmware-iwl6000g2a
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 324146
+Filename: iwlwifi-firmware-iwl6000g2a_20220411-1_mipsel_24kc.ipk
+Size: 324235
+SHA256sum: 3ee838f3fd7fdda3368507ada71a151704e62c4d7132fc93d231516aaa7c0faa
+Description:  Intel Centrino 6205 firmware
+
+Package: iwlwifi-firmware-iwl6000g2b
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 327878
+Filename: iwlwifi-firmware-iwl6000g2b_20220411-1_mipsel_24kc.ipk
+Size: 328076
+SHA256sum: d9771f4262a97b74bf31cb0b3a431f83c9219e114f9071904c697ffd63012fc0
+Description:  Intel Centrino 6230 1030 130 and 6235 firmware
+
+Package: iwlwifi-firmware-iwl6050
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 219214
+Filename: iwlwifi-firmware-iwl6050_20220411-1_mipsel_24kc.ipk
+Size: 219609
+SHA256sum: cdb32098c9673753bc4fbaf45d27d3186f54a564614126b93de17baf343d9915
+Description:  Intel Centrino 6150 and 6250 firmware
+
+Package: iwlwifi-firmware-iwl7260
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 492764
+Filename: iwlwifi-firmware-iwl7260_20220411-1_mipsel_24kc.ipk
+Size: 492620
+SHA256sum: d8a664bed032daa4ea904f01339050c0c38e8f55058c5f3772e042a61ddd308d
+Description:  Intel Wireless 7260 firmware
+
+Package: iwlwifi-firmware-iwl7265
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 534257
+Filename: iwlwifi-firmware-iwl7265_20220411-1_mipsel_24kc.ipk
+Size: 533761
+SHA256sum: 1660012f56a8017e81c13cc4f5ec912fa54849f8b1dcb7985c19047710784503
+Description:  Intel Wireless 7265 firmware
+
+Package: iwlwifi-firmware-iwl7265d
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 463063
+Filename: iwlwifi-firmware-iwl7265d_20220411-1_mipsel_24kc.ipk
+Size: 462740
+SHA256sum: c9fce580da58f9d0fcedbfd423c80875c34f9e8a7339ab5b123c6bfa29e87893
+Description:  Intel Wireless 7265D and 3165 firmware
+
+Package: iwlwifi-firmware-iwl8260c
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 960333
+Filename: iwlwifi-firmware-iwl8260c_20220411-1_mipsel_24kc.ipk
+Size: 958319
+SHA256sum: a146bcaf75fbda492340ae2538353161bc0e3ac65175aaad69ff47206dd55aee
+Description:  Intel Wireless 8260 and 4165 firmware
+
+Package: iwlwifi-firmware-iwl8265
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 967346
+Filename: iwlwifi-firmware-iwl8265_20220411-1_mipsel_24kc.ipk
+Size: 965788
+SHA256sum: 2b0b266dc0052840f0e65f6b2a44049cd67935fedfee1a383b889d032ef3e56e
+Description:  Intel Wireless 8265 firmware
+
+Package: iwlwifi-firmware-iwl9000
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 629939
+Filename: iwlwifi-firmware-iwl9000_20220411-1_mipsel_24kc.ipk
+Size: 628962
+SHA256sum: 735b81e3affdb46ef39e74657b65b3503cdc30434388a938ca0936a89045b549
+Description:  Intel Wireless 9000 firmware
+
+Package: iwlwifi-firmware-iwl9260
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 624868
+Filename: iwlwifi-firmware-iwl9260_20220411-1_mipsel_24kc.ipk
+Size: 623950
+SHA256sum: 797f35cc06ce5282b3cda06bfbb305e04634501bca3f7668afe63f94a3a64161
+Description:  Intel Wireless 9260 firmware
+
+Package: jansson4
+Version: 2.13.1-2
+Depends: libc
+Provides: jansson
+License: MIT
+Section: libs
+ABIVersion: 4
+Architecture: mipsel_24kc
+Installed-Size: 18592
+Filename: jansson4_2.13.1-2_mipsel_24kc.ipk
+Size: 19341
+SHA256sum: 943cb2e9228c2b3f33490604762a6eb9a2d73f5c60a019bae66a6e97df9dab18
+Description:  Jansson is a C library for encoding, decoding and manipulating JSON data
+
+Package: jshn
+Version: 2022-05-15-d2223ef9-1
+Depends: libc, libjson-c5, libubox20220515, libblobmsg-json20220515
+License: ISC
+Section: utils
+Architecture: mipsel_24kc
+Installed-Size: 5918
+Filename: jshn_2022-05-15-d2223ef9-1_mipsel_24kc.ipk
+Size: 6693
+SHA256sum: ef0d0af5b2e9f965e4a41522249644e50dad04b98685a9652fb8f51000668444
+Description:  Library for parsing and generating JSON from shell scripts
+
+Package: libblobmsg-json20220515
+Version: 2022-05-15-d2223ef9-1
+Depends: libc, libjson-c5, libubox20220515
+Provides: libblobmsg-json
+License: ISC
+Section: libs
+ABIVersion: 20220515
+Architecture: mipsel_24kc
+Installed-Size: 4059
+Filename: libblobmsg-json20220515_2022-05-15-d2223ef9-1_mipsel_24kc.ipk
+Size: 4816
+SHA256sum: be5ed2e55b8108d5d97682f5819f74ac7637f50ab54eaaf567bde44125b6f020
+Description:  blobmsg <-> json conversion library
+
+Package: libertas-sdio-firmware
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 348540
+Filename: libertas-sdio-firmware_20220411-1_mipsel_24kc.ipk
+Size: 349446
+SHA256sum: 94fc7068ff2202f66768dca920cbe542a40390f0667098a94fbff4058cc6118e
+Description:  Marvell 8385/8686/8688 SDIO firmware
+
+Package: libertas-spi-firmware
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 92242
+Filename: libertas-spi-firmware_20220411-1_mipsel_24kc.ipk
+Size: 93065
+SHA256sum: 8a95885b7c6989a0b4857628734a0eadf80ddb6a61aad976b0d5d72eb6f28023
+Description:  Marvell 8686 SPI firmware
+
+Package: libertas-usb-firmware
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 216575
+Filename: libertas-usb-firmware_20220411-1_mipsel_24kc.ipk
+Size: 217320
+SHA256sum: 5499bd898227e42049387ca8b53d9fc0ae98f6af013e20f55d2839c9adfc12c9
+Description:  Marvell 8388/8682 USB firmware
+
+Package: libjson-c5
+Version: 0.15-2
+Depends: libc
+Provides: libjson-c
+License: MIT
+Section: libs
+ABIVersion: 5
+CPE-ID: cpe:/a:json-c_project:json-c
+Architecture: mipsel_24kc
+Installed-Size: 22155
+Filename: libjson-c5_0.15-2_mipsel_24kc.ipk
+Size: 22959
+SHA256sum: aa3be5bfe306e122703c78ee3718f30c1313c969e8d015a30b46b90303a456df
+Description:  This package contains a library for javascript object notation backends.
+
+Package: libjson-script20220515
+Version: 2022-05-15-d2223ef9-1
+Depends: libc, libubox20220515
+Provides: libjson-script
+License: ISC
+Section: utils
+ABIVersion: 20220515
+Architecture: mipsel_24kc
+Installed-Size: 4770
+Filename: libjson-script20220515_2022-05-15-d2223ef9-1_mipsel_24kc.ipk
+Size: 5532
+SHA256sum: cdec2d752293117dff7cc4b7817aa6fa3c55bd82e7e62902fa6ef1c5407c6e0a
+Description:  Minimalistic JSON based scripting engine
+
+Package: liblua5.1.5
+Version: 5.1.5-10
+Depends: libc
+Provides: liblua
+License: MIT
+Section: libs
+ABIVersion: 5.1.5
+Architecture: mipsel_24kc
+Installed-Size: 63582
+Filename: liblua5.1.5_5.1.5-10_mipsel_24kc.ipk
+Size: 64427
+SHA256sum: 177675db1fc9f883f7eec0d601ced3a49bd81de83ff95a89669aa643185852b8
+Description:  Lua is a powerful light-weight programming language designed for extending 
+ applications. Lua is also frequently used as a general-purpose, stand-alone 
+ language. Lua is free software.
+ This package contains the Lua shared libraries, needed by other programs.
+
+Package: libmnl0
+Version: 1.0.5-1
+Depends: libc
+Provides: libmnl
+License: LGPL-2.1+
+Section: libs
+ABIVersion: 0
+Architecture: mipsel_24kc
+Installed-Size: 5307
+Filename: libmnl0_1.0.5-1_mipsel_24kc.ipk
+Size: 6543
+SHA256sum: 36d013cb5def928d6445676e227aae39208386f9e5b27f45b302ac9c9b744120
+Description:  libmnl is a minimalistic user-space library oriented to Netlink developers.
+ There are a lot of common tasks in parsing, validating, constructing of
+ both the Netlink header and TLVs that are repetitive and easy to get wrong.
+ This library aims to provide simple helpers that allows you to re-use code
+ and to avoid re-inventing the wheel. The main features of this library are:
+ .
+ * Small: the shared library requires around 30KB for an x86-based computer.
+ .
+ * Simple: this library avoids complexity and elaborated abstractions that
+ tend to hide Netlink details.
+ .
+ * Easy to use: the library simplifies the work for Netlink-wise developers.
+ It provides functions to make socket handling, message building, validating,
+ parsing and sequence tracking, easier.
+ .
+ * Easy to re-use: you can use the library to build your own abstraction layer
+ on top of this library.
+ .
+ * Decoupling: the interdependency of the main bricks that compose the library
+ is reduced, i.e. the library provides many helpers, but the programmer is not
+ forced to use them.
+
+Package: libnftnl11
+Version: 1.2.1-1
+Depends: libc, libmnl0
+Provides: libnftnl
+License: GPL-2.0-or-later
+Section: libs
+ABIVersion: 11
+CPE-ID: cpe:/a:netfilter:libnftnl
+Architecture: mipsel_24kc
+Installed-Size: 45972
+Filename: libnftnl11_1.2.1-1_mipsel_24kc.ipk
+Size: 46732
+SHA256sum: 76e844692cf17f03b4b3f72307f26ec27ef000b2fd74e3f45c504f527fbf3769
+Description:  libnftnl is a userspace library providing a low-level netlink
+ programming interface (API) to the in-kernel nf_tables subsystem.
+
+Package: libnl-tiny1
+Version: 2021-11-21-8e0555fb-1
+Depends: libc
+Provides: libnl-tiny
+License: LGPL-2.1
+Section: libs
+ABIVersion: 1
+Architecture: mipsel_24kc
+Installed-Size: 12295
+Filename: libnl-tiny1_2021-11-21-8e0555fb-1_mipsel_24kc.ipk
+Size: 13082
+SHA256sum: 035721380b3d6aa80a6cd99827a553304faf489f84ea7432a8161d9a27d4fc9b
+Description:  This package contains a stripped down version of libnl
+
+Package: libubox-lua
+Version: 2022-05-15-d2223ef9-1
+Depends: libc, libubox20220515, liblua5.1.5
+License: ISC
+Section: libs
+Architecture: mipsel_24kc
+Installed-Size: 3986
+Filename: libubox-lua_2022-05-15-d2223ef9-1_mipsel_24kc.ipk
+Size: 4754
+SHA256sum: e3bb0b65e2fa8765bd2cd128d75d1925e49535ef03b4c20d570ff6b1ee27bcad
+Description:  Lua binding for the OpenWrt Basic utility library
+
+Package: libubox20220515
+Version: 2022-05-15-d2223ef9-1
+Depends: libc
+Provides: libubox
+License: ISC
+Section: libs
+ABIVersion: 20220515
+Architecture: mipsel_24kc
+Installed-Size: 19437
+Filename: libubox20220515_2022-05-15-d2223ef9-1_mipsel_24kc.ipk
+Size: 20218
+SHA256sum: 0d30535f42d2603ff0a68a4956359277a5a0d22111cd448bbe120637117a16b9
+Description:  Basic utility library
+
+Package: libubus-lua
+Version: 2022-06-01-2bebf93c-1
+Depends: libc, libubus20220601, liblua5.1.5
+License: LGPL-2.1
+Section: libs
+Architecture: mipsel_24kc
+Installed-Size: 6898
+Filename: libubus-lua_2022-06-01-2bebf93c-1_mipsel_24kc.ipk
+Size: 7715
+SHA256sum: fb5b68a64334e0b0777def6719cc1f3757fdfc17200c409aae95357acdd7194c
+Description:  Lua binding for the OpenWrt RPC client
+
+Package: libubus20220601
+Version: 2022-06-01-2bebf93c-1
+Depends: libc, libubox20220515
+Provides: libubus
+License: LGPL-2.1
+Section: libs
+ABIVersion: 20220601
+Architecture: mipsel_24kc
+Installed-Size: 9319
+Filename: libubus20220601_2022-06-01-2bebf93c-1_mipsel_24kc.ipk
+Size: 10119
+SHA256sum: b3c099e617e5c3f34e1b1ec0cfec6e050ffaef42911c055adf068f80b982d217
+Description:  OpenWrt RPC client library
+
+Package: libuci-lua
+Version: 2021-10-22-f84f49f0-6
+Depends: libc, libuci20130104, liblua5.1.5
+License: LGPL-2.1
+Section: libs
+Architecture: mipsel_24kc
+Installed-Size: 6064
+Filename: libuci-lua_2021-10-22-f84f49f0-6_mipsel_24kc.ipk
+Size: 6830
+SHA256sum: 576043241c715adaaf070f77cbafd16813e5a0f644b2513609e5453a64debe90
+Description:  Lua plugin for UCI
+
+Package: libuci20130104
+Version: 2021-10-22-f84f49f0-6
+Depends: libc, libubox20220515
+Provides: libuci
+License: LGPL-2.1
+Section: libs
+ABIVersion: 20130104
+Architecture: mipsel_24kc
+Installed-Size: 14985
+Filename: libuci20130104_2021-10-22-f84f49f0-6_mipsel_24kc.ipk
+Size: 15741
+SHA256sum: decd8a66d1f461cb388e1dada8bfeaa96c9dc6939e65a124a0c3e7f7474348c9
+Description:  C library for the Unified Configuration Interface (UCI)
+
+Package: libucode20220812
+Version: 2022-12-02-46d93c9c-1
+Depends: libc, libjson-c5
+Provides: libucode
+License: ISC
+Section: utils
+ABIVersion: 20220812
+Architecture: mipsel_24kc
+Installed-Size: 65993
+Filename: libucode20220812_2022-12-02-46d93c9c-1_mipsel_24kc.ipk
+Size: 66766
+SHA256sum: 3d62801538dc63c32ad504ef41baafdf24adf3bc8ae66018441686c5b66a0b4f
+Description:  The libucode package provides the shared runtime library for the ucode interpreter.
+
+Package: lua-examples
+Version: 5.1.5-10
+Depends: libc, lua
+License: MIT
+Section: lang
+Architecture: mipsel_24kc
+Installed-Size: 5289
+Filename: lua-examples_5.1.5-10_mipsel_24kc.ipk
+Size: 6160
+SHA256sum: 833d64604df331110fad733ff80c808ef44a0d39c130d027c40b6f272b397730
+Description:  Lua is a powerful light-weight programming language designed for extending 
+ applications. Lua is also frequently used as a general-purpose, stand-alone 
+ language. Lua is free software.
+ This package contains Lua language examples.
+
+Package: lua
+Version: 5.1.5-10
+Depends: libc, liblua5.1.5
+License: MIT
+Section: lang
+Architecture: mipsel_24kc
+Installed-Size: 4667
+Filename: lua_5.1.5-10_mipsel_24kc.ipk
+Size: 5530
+SHA256sum: a87d07943fc786d25e741dbbe8b14cc2c62e68117792febbe18f93114c613895
+Description:  Lua is a powerful light-weight programming language designed for extending 
+ applications. Lua is also frequently used as a general-purpose, stand-alone 
+ language. Lua is free software.
+ This package contains the Lua language interpreter.
+
+Package: luac
+Version: 5.1.5-10
+Depends: libc, liblua5.1.5
+License: MIT
+Section: lang
+Architecture: mipsel_24kc
+Installed-Size: 5334
+Filename: luac_5.1.5-10_mipsel_24kc.ipk
+Size: 6213
+SHA256sum: c3f0ee94b878382f0dc35d1557692475d609d55f6a783fb54a948eb9b8aecdb4
+Description:  Lua is a powerful light-weight programming language designed for extending 
+ applications. Lua is also frequently used as a general-purpose, stand-alone 
+ language. Lua is free software.
+ This package contains the Lua language compiler.
+
+Package: mt7601u-firmware
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 26414
+Filename: mt7601u-firmware_20220411-1_mipsel_24kc.ipk
+Size: 27127
+SHA256sum: 76832fe4eb5a59454a6eb0bd7b4ccbdaec1b853d3d6281c664813234122043e0
+Description:  MediaTek MT7601U firmware
+
+Package: mt7622bt-firmware
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 53871
+Filename: mt7622bt-firmware_20220411-1_mipsel_24kc.ipk
+Size: 54701
+SHA256sum: 2d78ff64be98d82679aa3926b31203ec52e7d4fe2c4fdc7293153f43c751d5b2
+Description:  mt7622bt firmware
+
+Package: mwifiex-pcie-firmware
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 514901
+Filename: mwifiex-pcie-firmware_20220411-1_mipsel_24kc.ipk
+Size: 515544
+SHA256sum: e797d67d0877bd4a28e6d49bd1d0da14f12ae0c758508803a45d92b6cc10038d
+Description:  Marvell 8897 firmware
+
+Package: mwifiex-sdio-firmware
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 876718
+Filename: mwifiex-sdio-firmware_20220411-1_mipsel_24kc.ipk
+Size: 876997
+SHA256sum: ce2f69a2c80e1eb523ed93b815e8117078b45ac7dcb132694518106ef296edab
+Description:  Marvell 8887/8997 firmware
+
+Package: mwl8k-firmware
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 192353
+Filename: mwl8k-firmware_20220411-1_mipsel_24kc.ipk
+Size: 193195
+SHA256sum: 67af43680fb57a96da1542ece88ffbfa4d2f299c4347061dc8cfa02a43ac8382
+Description:  Marvell 8366/8687 firmware
+
+Package: nftables-json
+Version: 1.0.2-2.1
+Depends: libc, kmod-nft-core, libnftnl11, jansson4
+Provides: nftables
+License: GPL-2.0
+Section: net
+Architecture: mipsel_24kc
+Installed-Size: 262453
+Filename: nftables-json_1.0.2-2.1_mipsel_24kc.ipk
+Size: 261180
+SHA256sum: 8e39c48496db28adb1cc537ce3859d257fc192e6c5d727da641f6a0448e739a0
+Description:  nftables userspace utility with JSON support
+
+Package: nftables-nojson
+Version: 1.0.2-2.1
+Depends: libc, kmod-nft-core, libnftnl11
+Conflicts: nftables-json
+Provides: nftables
+License: GPL-2.0
+Section: net
+Architecture: mipsel_24kc
+Installed-Size: 234138
+Filename: nftables-nojson_1.0.2-2.1_mipsel_24kc.ipk
+Size: 233378
+SHA256sum: 313f097f9438e118fa9845bb16e7331215ef213627bdc5482b1603ac046c1635
+Description:  nftables userspace utility no JSON support
+
+Package: p54-pci-firmware
+Version: 1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 23505
+Filename: p54-pci-firmware_1_mipsel_24kc.ipk
+Size: 24171
+SHA256sum: 74aa213972a579c28dd9ff1eb89a8bc81f70d55b766acf91ad39d16b1bb5c1a1
+Description:  p54-pci firmware
+
+Package: p54-spi-firmware
+Version: 1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 26768
+Filename: p54-spi-firmware_1_mipsel_24kc.ipk
+Size: 27414
+SHA256sum: 1807a07afd31b21b3607f3d23bfe948b6ce794cb7b6f145553b521d95e556b8d
+Description:  p54-spi firmware
+
+Package: p54-usb-firmware
+Version: 1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 23794
+Filename: p54-usb-firmware_1_mipsel_24kc.ipk
+Size: 24460
+SHA256sum: 52996b789d875fd9814e65d16b1d1325a004a4ed4644de2e2c71c84b18a5f816
+Description:  p54-usb firmware
+
+Package: prism54-firmware
+Version: 1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 80218
+Filename: prism54-firmware_1_mipsel_24kc.ipk
+Size: 81015
+SHA256sum: 0018fd7d3231448c37be8b306dc01159d02b3490594e4a1ae8b9480629f6285e
+Description:  prism54 firmware
+
+Package: r8152-firmware
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 9400
+Filename: r8152-firmware_20220411-1_mipsel_24kc.ipk
+Size: 10134
+SHA256sum: 9ae7fd9d6b1ee6e7458989f5899cc2db32131abd1462dc4aa2613a3d86bb7df6
+Description:  RealTek RTL8152 firmware
+
+Package: r8169-firmware
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 23819
+Filename: r8169-firmware_20220411-1_mipsel_24kc.ipk
+Size: 24499
+SHA256sum: c1ad5fe4c58589e3eaf9d3c0d2b119c0555116f521c0e43af32ffa783e71787c
+Description:  RealTek RTL8169 firmware
+
+Package: radeon-firmware
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 3523062
+Filename: radeon-firmware_20220411-1_mipsel_24kc.ipk
+Size: 3518024
+SHA256sum: 8222323df156e35250bdffd242abdf71b50c2bbb19e08b4354b2b0af78de1f10
+Description:  Radeon Video Driver firmware
+
+Package: rs9113-firmware
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 84653
+Filename: rs9113-firmware_20220411-1_mipsel_24kc.ipk
+Size: 85223
+SHA256sum: 28219be1f176b30267b800cb97db99c4fd8b6cb8e1aaec39d355ccd75cd1a7a5
+Description:  RedPine Signals rs9113 firmware
+
+Package: rt2800-pci-firmware
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 3958
+Filename: rt2800-pci-firmware_20220411-1_mipsel_24kc.ipk
+Size: 4693
+SHA256sum: 156b500c21deec58db999f326e627123c3b644726dd877d200950713ff4bac51
+Description:  Ralink RT28xx/3xxx PCI/SoC firmware
+
+Package: rt2800-usb-firmware
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 2930
+Filename: rt2800-usb-firmware_20220411-1_mipsel_24kc.ipk
+Size: 3649
+SHA256sum: ce8c4964538b70b7f025ee6a749201f41d8632d878516cc1283753aa6d446841
+Description:  Ralink RT28xx/3xxx USB firmware
+
+Package: rt61-pci-firmware
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 6497
+Filename: rt61-pci-firmware_20220411-1_mipsel_24kc.ipk
+Size: 7223
+SHA256sum: bee8d7f8f28b0b1428de48993b6c14dfd9d32ef00df6cfc3d0b38b6a7a0d3c61
+Description:  Ralink RT2561 firmware
+
+Package: rt73-usb-firmware
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 1311
+Filename: rt73-usb-firmware_20220411-1_mipsel_24kc.ipk
+Size: 2033
+SHA256sum: 37c3fb7d73034ce83f3345b107e187c285321cc12d14a2125b79d9c176a7535f
+Description:  Ralink RT2573 firmware
+
+Package: rtl8188eu-firmware
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 8286
+Filename: rtl8188eu-firmware_20220411-1_mipsel_24kc.ipk
+Size: 9047
+SHA256sum: 3054165534e6329cb4b429a0c56fb04b1b98eabec026d95b4e8e337f93de627c
+Description:  RealTek RTL8188EU firmware
+
+Package: rtl8192ce-firmware
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 20753
+Filename: rtl8192ce-firmware_20220411-1_mipsel_24kc.ipk
+Size: 21465
+SHA256sum: 8a93a8caf5aecaa3cc30e94ebead34f94644e59d16a3e801c1259a96d1373ddb
+Description:  RealTek RTL8192CE firmware
+
+Package: rtl8192cu-firmware
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 18706
+Filename: rtl8192cu-firmware_20220411-1_mipsel_24kc.ipk
+Size: 19459
+SHA256sum: d23ae5807491f5ed5f93c99fdc6f215ee02d08580a4616f8ba7189f2abd26c7d
+Description:  RealTek RTL8192CU firmware
+
+Package: rtl8192de-firmware
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 13525
+Filename: rtl8192de-firmware_20220411-1_mipsel_24kc.ipk
+Size: 14257
+SHA256sum: 979f9967f0990f1e4bc19c5de61094c9ae5f1712f4360dee8ae7bcb8c6e58850
+Description:  RealTek RTL8192DE firmware
+
+Package: rtl8192eu-firmware
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 17866
+Filename: rtl8192eu-firmware_20220411-1_mipsel_24kc.ipk
+Size: 18602
+SHA256sum: bd6ef472ae17e788376ae6ec7ef51ad4354aadb14c3929542e8cbeca10a27674
+Description:  RealTek RTL8192EU firmware
+
+Package: rtl8192se-firmware
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 36769
+Filename: rtl8192se-firmware_20220411-1_mipsel_24kc.ipk
+Size: 37460
+SHA256sum: ef1aaeaff158c9868ea43bfae58aab11b09a686c621a3b8505a317c92237487c
+Description:  RealTek RTL8192SE firmware
+
+Package: rtl8723au-firmware
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 27982
+Filename: rtl8723au-firmware_20220411-1_mipsel_24kc.ipk
+Size: 28709
+SHA256sum: f6da60ce90b1817d8f2c8d1e698c766c395e9e0a4b9519532879db56aa4c3266
+Description:  RealTek RTL8723AU firmware
+
+Package: rtl8723bu-firmware
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 21419
+Filename: rtl8723bu-firmware_20220411-1_mipsel_24kc.ipk
+Size: 22147
+SHA256sum: a0acc1c768416b7f62f477d8be0ac15002b58d1cef658bf8d37950c65e26684c
+Description:  RealTek RTL8723BU firmware
+
+Package: rtl8821ae-firmware
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 23988
+Filename: rtl8821ae-firmware_20220411-1_mipsel_24kc.ipk
+Size: 24680
+SHA256sum: eb3e76647a66afe881884c39f036d2065dc9a2824f8981601eacdb75d8c40268
+Description:  RealTek RTL8821AE firmware
+
+Package: rtl8822be-firmware
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 82175
+Filename: rtl8822be-firmware_20220411-1_mipsel_24kc.ipk
+Size: 82972
+SHA256sum: bd723cc4153589b40e283b0d78e0d6e558b5fe0c418d4330cb86ee2e6d413854
+Description:  RealTek RTL8822BE firmware
+
+Package: rtl8822ce-firmware
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 161839
+Filename: rtl8822ce-firmware_20220411-1_mipsel_24kc.ipk
+Size: 162510
+SHA256sum: d401618aa53c721c947330b3638cf4bc25e9337c20f9df8e16415ce466db9f2a
+Description:  RealTek RTL8822CE firmware
+
+Package: ti-3410-firmware
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 7878
+Filename: ti-3410-firmware_20220411-1_mipsel_24kc.ipk
+Size: 8628
+SHA256sum: 97882b8598417b1f249253f4306cfd0bebd0d185e44f6975799f647360c48e74
+Description:  TI 3410 firmware
+
+Package: ti-5052-firmware
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 7853
+Filename: ti-5052-firmware_20220411-1_mipsel_24kc.ipk
+Size: 8605
+SHA256sum: 283384d1f91ba3af8937bd06def2084ef220734004e8296e1a2a0134e7530472
+Description:  TI 5052 firmware
+
+Package: ubus
+Version: 2022-06-01-2bebf93c-1
+Depends: libc, libubus20220601, libblobmsg-json20220515, ubusd
+License: LGPL-2.1
+Section: base
+Architecture: mipsel_24kc
+Installed-Size: 5905
+Filename: ubus_2022-06-01-2bebf93c-1_mipsel_24kc.ipk
+Size: 6662
+SHA256sum: 621370db932bf940266d1d964bf47ba71dffae3f652440f181ebf121d44d39f9
+Description:  OpenWrt RPC client utility
+
+Package: ubusd
+Version: 2022-06-01-2bebf93c-1
+Depends: libc, libubox20220515, libblobmsg-json20220515
+License: LGPL-2.1
+Section: base
+Architecture: mipsel_24kc
+Installed-Size: 11509
+Filename: ubusd_2022-06-01-2bebf93c-1_mipsel_24kc.ipk
+Size: 12287
+SHA256sum: a69fa511f10b0a775d8c668ea02331a119e80fc34dd6417d25a549a7e98b8313
+Description:  OpenWrt RPC daemon
+
+Package: uci
+Version: 2021-10-22-f84f49f0-6
+Depends: libc, libuci20130104
+License: LGPL-2.1
+Section: base
+Architecture: mipsel_24kc
+Installed-Size: 6510
+Filename: uci_2021-10-22-f84f49f0-6_mipsel_24kc.ipk
+Size: 7305
+SHA256sum: eeda293006ffc5a473e00164ee9c835aedd98745f0ec73c5653bdf328f2b28b4
+Description:  Utility for the Unified Configuration Interface (UCI)
+
+Package: ucode-mod-fs
+Version: 2022-12-02-46d93c9c-1
+Depends: libc, ucode
+License: ISC
+Section: utils
+Architecture: mipsel_24kc
+Installed-Size: 8143
+Filename: ucode-mod-fs_2022-12-02-46d93c9c-1_mipsel_24kc.ipk
+Size: 8944
+SHA256sum: 5c043ad8d7d8577bab8cce6bf15e1c2559b44e2deeda89d81556c39914e65f05
+Description:  The filesystem plugin module allows interaction with the local file system.
+
+Package: ucode-mod-math
+Version: 2022-12-02-46d93c9c-1
+Depends: libc, ucode
+License: ISC
+Section: utils
+Architecture: mipsel_24kc
+Installed-Size: 2629
+Filename: ucode-mod-math_2022-12-02-46d93c9c-1_mipsel_24kc.ipk
+Size: 3387
+SHA256sum: 534394f8f16f2a0c2e7f589225fc2dae677eb6739c8c0914fe07009d52cb91c0
+Description:  The math plugin provides access to various <math.h> procedures.
+
+Package: ucode-mod-nl80211
+Version: 2022-12-02-46d93c9c-1
+Depends: libc, ucode, libnl-tiny1
+License: ISC
+Section: utils
+Architecture: mipsel_24kc
+Installed-Size: 16852
+Filename: ucode-mod-nl80211_2022-12-02-46d93c9c-1_mipsel_24kc.ipk
+Size: 17559
+SHA256sum: c837dde8fcb1407b6031d756b99e32a04a2155d6dd03ccd3095104dc42ccea60
+Description:  The nl80211 plugin provides access to the Linux wireless 802.11 netlink API.
+
+Package: ucode-mod-resolv
+Version: 2022-12-02-46d93c9c-1
+Depends: libc, ucode
+License: ISC
+Section: utils
+Architecture: mipsel_24kc
+Installed-Size: 7264
+Filename: ucode-mod-resolv_2022-12-02-46d93c9c-1_mipsel_24kc.ipk
+Size: 8067
+SHA256sum: 4f60f22f61b71a71e282466f2a8543b3bf800da8a2423a97cdfca045303e7af3
+Description:  The resolv plugin implements simple DNS resolving.
+
+Package: ucode-mod-rtnl
+Version: 2022-12-02-46d93c9c-1
+Depends: libc, ucode, libnl-tiny1
+License: ISC
+Section: utils
+Architecture: mipsel_24kc
+Installed-Size: 22843
+Filename: ucode-mod-rtnl_2022-12-02-46d93c9c-1_mipsel_24kc.ipk
+Size: 23338
+SHA256sum: 241f906a0ec800fe69d6cd68b5b4f938a39f5f1823d6af4f6ca6d0a643894531
+Description:  The rtnl plugin provides access to the Linux routing netlink API.
+
+Package: ucode-mod-struct
+Version: 2022-12-02-46d93c9c-1
+Depends: libc, ucode
+License: ISC
+Section: utils
+Architecture: mipsel_24kc
+Installed-Size: 9661
+Filename: ucode-mod-struct_2022-12-02-46d93c9c-1_mipsel_24kc.ipk
+Size: 10439
+SHA256sum: c4f84722ec38a731c86755d7e443dbb485feeb3ad503d38fc3ae5201fee86d0a
+Description:  The struct plugin implemnts Python 3 compatible struct.pack/unpack functionality.
+
+Package: ucode-mod-ubus
+Version: 2022-12-02-46d93c9c-1
+Depends: libc, ucode, libubus20220601, libblobmsg-json20220515
+License: ISC
+Section: utils
+Architecture: mipsel_24kc
+Installed-Size: 12732
+Filename: ucode-mod-ubus_2022-12-02-46d93c9c-1_mipsel_24kc.ipk
+Size: 13511
+SHA256sum: fa8049fdc486dcd106c8315d8371eef51401e234140244bdb96f0e4cc711be05
+Description:  The ubus module allows ucode template scripts to enumerate and invoke ubus
+ procedures.
+
+Package: ucode-mod-uci
+Version: 2022-12-02-46d93c9c-1
+Depends: libc, ucode, libuci20130104
+License: ISC
+Section: utils
+Architecture: mipsel_24kc
+Installed-Size: 6102
+Filename: ucode-mod-uci_2022-12-02-46d93c9c-1_mipsel_24kc.ipk
+Size: 6877
+SHA256sum: bc5c0c51db8faede8829d096315ab9f91a93150b7ff3f320afbd7c1480135b3c
+Description:  The uci module allows templates to read and modify uci configuration.
+
+Package: ucode-mod-uloop
+Version: 2022-12-02-46d93c9c-1
+Depends: libc, ucode, libubox20220515
+License: ISC
+Section: utils
+Architecture: mipsel_24kc
+Installed-Size: 6788
+Filename: ucode-mod-uloop_2022-12-02-46d93c9c-1_mipsel_24kc.ipk
+Size: 7628
+SHA256sum: 6509512b9a505635af4715edf866b2ba7536125356ce642cfe07a3874ca62e63
+Description:  The uloop module allows ucode scripts to interact with OpenWrt uloop event
+ loop implementation.
+
+Package: ucode
+Version: 2022-12-02-46d93c9c-1
+Depends: libc, libucode20220812
+License: ISC
+Section: utils
+Architecture: mipsel_24kc
+Installed-Size: 5849
+Filename: ucode_2022-12-02-46d93c9c-1_mipsel_24kc.ipk
+Size: 6639
+SHA256sum: 8c04b9f5120f6c18ceda393e18eacb200066ac0d2b105632e55214055e0e27cd
+Description:  ucode is a tiny script interpreter featuring an ECMAScript oriented
+ script language and Jinja-inspired templating.
+
+Package: wil6210-firmware
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 254940
+Filename: wil6210-firmware_20220411-1_mipsel_24kc.ipk
+Size: 255744
+SHA256sum: 1e8752300d03803877eaebc6992d30ece86bb89f3329eca691c73ce01a02c87b
+Description:  wil6210 firmware
+
+Package: wl12xx-firmware
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 1175077
+Filename: wl12xx-firmware_20220411-1_mipsel_24kc.ipk
+Size: 1175076
+SHA256sum: 5011a963197672a35df255aeced2be934c97aa25b177d1a1cb76835c56ce009e
+Description:  TI WL12xx firmware
+
+Package: wl18xx-firmware
+Version: 20220411-1
+Depends: libc
+Section: firmware
+Architecture: mipsel_24kc
+Installed-Size: 343328
+Filename: wl18xx-firmware_20220411-1_mipsel_24kc.ipk
+Size: 343915
+SHA256sum: a890122138d0f6859c8315e1151c638c238be73de18f93a61988bbe2aa2371b2
+Description:  TI WL18xx firmware
+

@@ -1,0 +1,526 @@
+Package: luci-app-firewall
+Version: git-23.093.42704-1c01c64
+Depends: libc, uci-firewall
+Source: feeds/luci/applications/luci-app-firewall
+SourceName: luci-app-firewall
+License: Apache-2.0
+Section: luci
+SourceDateEpoch: 1680523731
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 16975
+Filename: luci-app-firewall_git-23.093.42704-1c01c64_all.ipk
+Size: 17878
+SHA256sum: 3e15404952da0d1155970ad4e033d51cf8e2b0bf408742a89d7d81cce39639b1
+Description:  Firewall and Portforwarding application
+
+Package: luci-i18n-firewall-ar
+Version: git-23.093.43731-b672b90
+Depends: libc, luci-app-firewall
+Source: feeds/luci/applications/luci-app-firewall
+SourceName: luci-i18n-firewall-ar
+License: Apache-2.0
+Section: luci
+SourceDateEpoch: 1680523731
+Architecture: all
+Installed-Size: 6362
+Filename: luci-i18n-firewall-ar_git-23.093.43731-b672b90_all.ipk
+Size: 7198
+SHA256sum: d334e50c593dff034001a9bd3426fd27314790688a861db28bb43ac36c78de80
+Description:  Translation for luci-app-firewall - العربية (Arabic)
+
+Package: luci-i18n-firewall-bg
+Version: git-23.093.43731-b672b90
+Depends: libc, luci-app-firewall
+Source: feeds/luci/applications/luci-app-firewall
+SourceName: luci-i18n-firewall-bg
+License: Apache-2.0
+Section: luci
+SourceDateEpoch: 1680523731
+Architecture: all
+Installed-Size: 2005
+Filename: luci-i18n-firewall-bg_git-23.093.43731-b672b90_all.ipk
+Size: 2819
+SHA256sum: 8026f4e9aaa6daf0633215660d7d28b6cd78ee37346000876d661ed089b37cc4
+Description:  Translation for luci-app-firewall - български (Bulgarian)
+
+Package: luci-i18n-firewall-bn
+Version: git-23.093.43731-b672b90
+Depends: libc, luci-app-firewall
+Source: feeds/luci/applications/luci-app-firewall
+SourceName: luci-i18n-firewall-bn
+License: Apache-2.0
+Section: luci
+SourceDateEpoch: 1680523731
+Architecture: all
+Installed-Size: 523
+Filename: luci-i18n-firewall-bn_git-23.093.43731-b672b90_all.ipk
+Size: 1355
+SHA256sum: 236ab40e1b7809eb193d9f66876da434014e0dd1b2854932e4c66b32e6396d5e
+Description:  Translation for luci-app-firewall - বাংলা (Bengali)
+
+Package: luci-i18n-firewall-ca
+Version: git-23.093.43731-b672b90
+Depends: libc, luci-app-firewall
+Source: feeds/luci/applications/luci-app-firewall
+SourceName: luci-i18n-firewall-ca
+License: Apache-2.0
+Section: luci
+SourceDateEpoch: 1680523731
+Architecture: all
+Installed-Size: 2602
+Filename: luci-i18n-firewall-ca_git-23.093.43731-b672b90_all.ipk
+Size: 3396
+SHA256sum: a8e38f228e0371affcaf89adcdec91cca5007dff1334656bcf6d94129140277c
+Description:  Translation for luci-app-firewall - Català (Catalan)
+
+Package: luci-i18n-firewall-cs
+Version: git-23.093.43731-b672b90
+Depends: libc, luci-app-firewall
+Source: feeds/luci/applications/luci-app-firewall
+SourceName: luci-i18n-firewall-cs
+License: Apache-2.0
+Section: luci
+SourceDateEpoch: 1680523731
+Architecture: all
+Installed-Size: 4573
+Filename: luci-i18n-firewall-cs_git-23.093.43731-b672b90_all.ipk
+Size: 5372
+SHA256sum: f3994d9a1f91f7eaa103586de6f847c12821c718c35d052e3f410a6f8a29cc43
+Description:  Translation for luci-app-firewall - Čeština (Czech)
+
+Package: luci-i18n-firewall-da
+Version: git-23.093.43731-b672b90
+Depends: libc, luci-app-firewall
+Source: feeds/luci/applications/luci-app-firewall
+SourceName: luci-i18n-firewall-da
+License: Apache-2.0
+Section: luci
+SourceDateEpoch: 1680523731
+Architecture: all
+Installed-Size: 6434
+Filename: luci-i18n-firewall-da_git-23.093.43731-b672b90_all.ipk
+Size: 7282
+SHA256sum: 93431157a3af4307be2840e2bc66c6c24bc95cf58fe29a17e5b038126cbfd6fb
+Description:  Translation for luci-app-firewall - Dansk (Danish)
+
+Package: luci-i18n-firewall-de
+Version: git-23.093.43731-b672b90
+Depends: libc, luci-app-firewall
+Source: feeds/luci/applications/luci-app-firewall
+SourceName: luci-i18n-firewall-de
+License: Apache-2.0
+Section: luci
+SourceDateEpoch: 1680523731
+Architecture: all
+Installed-Size: 7075
+Filename: luci-i18n-firewall-de_git-23.093.43731-b672b90_all.ipk
+Size: 7911
+SHA256sum: b404e0dd82c3699c83a7b00ac65445be08496a7ee338cf89be7e7299ef99c063
+Description:  Translation for luci-app-firewall - Deutsch (German)
+
+Package: luci-i18n-firewall-el
+Version: git-23.093.43731-b672b90
+Depends: libc, luci-app-firewall
+Source: feeds/luci/applications/luci-app-firewall
+SourceName: luci-i18n-firewall-el
+License: Apache-2.0
+Section: luci
+SourceDateEpoch: 1680523731
+Architecture: all
+Installed-Size: 2116
+Filename: luci-i18n-firewall-el_git-23.093.43731-b672b90_all.ipk
+Size: 2925
+SHA256sum: 209a847d9cc63504b75b2d89539b9191b9eedd62a1bc7b08a5102262f6657c8d
+Description:  Translation for luci-app-firewall - Ελληνικά (Greek)
+
+Package: luci-i18n-firewall-en
+Version: git-23.093.43731-b672b90
+Depends: libc, luci-app-firewall
+Source: feeds/luci/applications/luci-app-firewall
+SourceName: luci-i18n-firewall-en
+License: Apache-2.0
+Section: luci
+SourceDateEpoch: 1680523731
+Architecture: all
+Installed-Size: 354
+Filename: luci-i18n-firewall-en_git-23.093.43731-b672b90_all.ipk
+Size: 1163
+SHA256sum: b1fdac1c2322e90a801490a49515454f01ec92040e5dc34f12da64d6d44884c4
+Description:  Translation for luci-app-firewall - English
+
+Package: luci-i18n-firewall-es
+Version: git-23.093.43731-b672b90
+Depends: libc, luci-app-firewall
+Source: feeds/luci/applications/luci-app-firewall
+SourceName: luci-i18n-firewall-es
+License: Apache-2.0
+Section: luci
+SourceDateEpoch: 1680523731
+Architecture: all
+Installed-Size: 6825
+Filename: luci-i18n-firewall-es_git-23.093.43731-b672b90_all.ipk
+Size: 7679
+SHA256sum: b2f35f0fca07e9e0a6f389f5e4be19906fdc58b694713149b59547a50a52913b
+Description:  Translation for luci-app-firewall - Español (Spanish)
+
+Package: luci-i18n-firewall-fi
+Version: git-23.093.43731-b672b90
+Depends: libc, luci-app-firewall
+Source: feeds/luci/applications/luci-app-firewall
+SourceName: luci-i18n-firewall-fi
+License: Apache-2.0
+Section: luci
+SourceDateEpoch: 1680523731
+Architecture: all
+Installed-Size: 6771
+Filename: luci-i18n-firewall-fi_git-23.093.43731-b672b90_all.ipk
+Size: 7616
+SHA256sum: 2d87662f814d4284a95be5b638e8b67dbbbbb90cd12363cbca89545c8579086d
+Description:  Translation for luci-app-firewall - Suomi (Finnish)
+
+Package: luci-i18n-firewall-fr
+Version: git-23.093.43731-b672b90
+Depends: libc, luci-app-firewall
+Source: feeds/luci/applications/luci-app-firewall
+SourceName: luci-i18n-firewall-fr
+License: Apache-2.0
+Section: luci
+SourceDateEpoch: 1680523731
+Architecture: all
+Installed-Size: 6177
+Filename: luci-i18n-firewall-fr_git-23.093.43731-b672b90_all.ipk
+Size: 7031
+SHA256sum: a4932cda814628be5ecc24ddd5c4cd6fb8a029f6825e45f8a96b2f6e83415cdb
+Description:  Translation for luci-app-firewall - Français (French)
+
+Package: luci-i18n-firewall-he
+Version: git-23.093.43731-b672b90
+Depends: libc, luci-app-firewall
+Source: feeds/luci/applications/luci-app-firewall
+SourceName: luci-i18n-firewall-he
+License: Apache-2.0
+Section: luci
+SourceDateEpoch: 1680523731
+Architecture: all
+Installed-Size: 448
+Filename: luci-i18n-firewall-he_git-23.093.43731-b672b90_all.ipk
+Size: 1288
+SHA256sum: e090c908a94618cfbfbc6163957e3c693543c5e396204756c76cc3bcb36d1eb5
+Description:  Translation for luci-app-firewall - עִבְרִית (Hebrew)
+
+Package: luci-i18n-firewall-hi
+Version: git-23.093.43731-b672b90
+Depends: libc, luci-app-firewall
+Source: feeds/luci/applications/luci-app-firewall
+SourceName: luci-i18n-firewall-hi
+License: Apache-2.0
+Section: luci
+SourceDateEpoch: 1680523731
+Architecture: all
+Installed-Size: 383
+Filename: luci-i18n-firewall-hi_git-23.093.43731-b672b90_all.ipk
+Size: 1218
+SHA256sum: e8d845e402afb09f87e5d2870ba7e9fc3e029a318b722221b9da1900229deb06
+Description:  Translation for luci-app-firewall - हिंदी (Hindi)
+
+Package: luci-i18n-firewall-hu
+Version: git-23.093.43731-b672b90
+Depends: libc, luci-app-firewall
+Source: feeds/luci/applications/luci-app-firewall
+SourceName: luci-i18n-firewall-hu
+License: Apache-2.0
+Section: luci
+SourceDateEpoch: 1680523731
+Architecture: all
+Installed-Size: 5675
+Filename: luci-i18n-firewall-hu_git-23.093.43731-b672b90_all.ipk
+Size: 6488
+SHA256sum: cdbfafdacebf5d3a68a95e305e231da833d864ee4a836a4a85552f8cce0b4e1e
+Description:  Translation for luci-app-firewall - Magyar (Hungarian)
+
+Package: luci-i18n-firewall-it
+Version: git-23.093.43731-b672b90
+Depends: libc, luci-app-firewall
+Source: feeds/luci/applications/luci-app-firewall
+SourceName: luci-i18n-firewall-it
+License: Apache-2.0
+Section: luci
+SourceDateEpoch: 1680523731
+Architecture: all
+Installed-Size: 3433
+Filename: luci-i18n-firewall-it_git-23.093.43731-b672b90_all.ipk
+Size: 4224
+SHA256sum: 07d761bfd9e786821db7f6c476dc537f5dcb45ef788274ede7c1e610fb139089
+Description:  Translation for luci-app-firewall - Italiano (Italian)
+
+Package: luci-i18n-firewall-ja
+Version: git-23.093.43731-b672b90
+Depends: libc, luci-app-firewall
+Source: feeds/luci/applications/luci-app-firewall
+SourceName: luci-i18n-firewall-ja
+License: Apache-2.0
+Section: luci
+SourceDateEpoch: 1680523731
+Architecture: all
+Installed-Size: 7109
+Filename: luci-i18n-firewall-ja_git-23.093.43731-b672b90_all.ipk
+Size: 7963
+SHA256sum: 6e883fea9ba5cbb11edc5e3d8a16189bcdca6bd61250d074805f93b7a9974d65
+Description:  Translation for luci-app-firewall - 日本語 (Japanese)
+
+Package: luci-i18n-firewall-ko
+Version: git-23.093.43731-b672b90
+Depends: libc, luci-app-firewall
+Source: feeds/luci/applications/luci-app-firewall
+SourceName: luci-i18n-firewall-ko
+License: Apache-2.0
+Section: luci
+SourceDateEpoch: 1680523731
+Architecture: all
+Installed-Size: 2508
+Filename: luci-i18n-firewall-ko_git-23.093.43731-b672b90_all.ipk
+Size: 3310
+SHA256sum: 031ff9d608f0cc4bf023fe8a4cc847f49fb417b260cd71f194b74bf55863245a
+Description:  Translation for luci-app-firewall - 한국어 (Korean)
+
+Package: luci-i18n-firewall-mr
+Version: git-23.093.43731-b672b90
+Depends: libc, luci-app-firewall
+Source: feeds/luci/applications/luci-app-firewall
+SourceName: luci-i18n-firewall-mr
+License: Apache-2.0
+Section: luci
+SourceDateEpoch: 1680523731
+Architecture: all
+Installed-Size: 674
+Filename: luci-i18n-firewall-mr_git-23.093.43731-b672b90_all.ipk
+Size: 1504
+SHA256sum: cfcc5cdf913c9cf777282730ae9432a708188a3cdc7a227a7d492169a0ccf674
+Description:  Translation for luci-app-firewall - Marāṭhī (Marathi)
+
+Package: luci-i18n-firewall-ms
+Version: git-23.093.43731-b672b90
+Depends: libc, luci-app-firewall
+Source: feeds/luci/applications/luci-app-firewall
+SourceName: luci-i18n-firewall-ms
+License: Apache-2.0
+Section: luci
+SourceDateEpoch: 1680523731
+Architecture: all
+Installed-Size: 412
+Filename: luci-i18n-firewall-ms_git-23.093.43731-b672b90_all.ipk
+Size: 1235
+SHA256sum: 72cb5709f69d97563237d2f5c0a8d02f1919832a5d62c774f038f6008530e7bc
+Description:  Translation for luci-app-firewall - Bahasa Melayu (Malay)
+
+Package: luci-i18n-firewall-nl
+Version: git-23.093.43731-b672b90
+Depends: libc, luci-app-firewall
+Source: feeds/luci/applications/luci-app-firewall
+SourceName: luci-i18n-firewall-nl
+License: Apache-2.0
+Section: luci
+SourceDateEpoch: 1680523731
+Architecture: all
+Installed-Size: 594
+Filename: luci-i18n-firewall-nl_git-23.093.43731-b672b90_all.ipk
+Size: 1414
+SHA256sum: d545383674ce78e9d7f9a854e9f05684ea2417b8b627960e7ff5442fd2ace625
+Description:  Translation for luci-app-firewall - Nederlands (Dutch)
+
+Package: luci-i18n-firewall-no
+Version: git-23.093.43731-b672b90
+Depends: libc, luci-app-firewall
+Source: feeds/luci/applications/luci-app-firewall
+SourceName: luci-i18n-firewall-no
+License: Apache-2.0
+Section: luci
+SourceDateEpoch: 1680523731
+Architecture: all
+Installed-Size: 2517
+Filename: luci-i18n-firewall-no_git-23.093.43731-b672b90_all.ipk
+Size: 3308
+SHA256sum: 025d079809417a5a04910ec943c6431cd2aadcf14d7d1419741cad3c8823baf9
+Description:  Translation for luci-app-firewall - Norsk (Norwegian)
+
+Package: luci-i18n-firewall-pl
+Version: git-23.093.43731-b672b90
+Depends: libc, luci-app-firewall
+Source: feeds/luci/applications/luci-app-firewall
+SourceName: luci-i18n-firewall-pl
+License: Apache-2.0
+Section: luci
+SourceDateEpoch: 1680523731
+Architecture: all
+Installed-Size: 7110
+Filename: luci-i18n-firewall-pl_git-23.093.43731-b672b90_all.ipk
+Size: 7946
+SHA256sum: cce888673880ab5e40025f67ac772b65903434786497b2f4ff3a12e9b250128e
+Description:  Translation for luci-app-firewall - Polski (Polish)
+
+Package: luci-i18n-firewall-pt-br
+Version: git-23.093.43731-b672b90
+Depends: libc, luci-app-firewall
+Source: feeds/luci/applications/luci-app-firewall
+SourceName: luci-i18n-firewall-pt-br
+License: Apache-2.0
+Section: luci
+SourceDateEpoch: 1680523731
+Architecture: all
+Installed-Size: 7028
+Filename: luci-i18n-firewall-pt-br_git-23.093.43731-b672b90_all.ipk
+Size: 7891
+SHA256sum: 965192653a17a5313b8b382754c551a5f3dc5c3011643617a47310319bf758ea
+Description:  Translation for luci-app-firewall - Português do Brasil (Brazilian Portuguese)
+
+Package: luci-i18n-firewall-pt
+Version: git-23.093.43731-b672b90
+Depends: libc, luci-app-firewall
+Source: feeds/luci/applications/luci-app-firewall
+SourceName: luci-i18n-firewall-pt
+License: Apache-2.0
+Section: luci
+SourceDateEpoch: 1680523731
+Architecture: all
+Installed-Size: 6904
+Filename: luci-i18n-firewall-pt_git-23.093.43731-b672b90_all.ipk
+Size: 7745
+SHA256sum: 2af84c5c828af98cf22f80a83aa277dd2d7509d521945ba9a9f6771178f7008f
+Description:  Translation for luci-app-firewall - Português (Portuguese)
+
+Package: luci-i18n-firewall-ro
+Version: git-23.093.43731-b672b90
+Depends: libc, luci-app-firewall
+Source: feeds/luci/applications/luci-app-firewall
+SourceName: luci-i18n-firewall-ro
+License: Apache-2.0
+Section: luci
+SourceDateEpoch: 1680523731
+Architecture: all
+Installed-Size: 7157
+Filename: luci-i18n-firewall-ro_git-23.093.43731-b672b90_all.ipk
+Size: 8000
+SHA256sum: 3adef398fd8d9b06dd50db820b856eb8d1486ce5a1e8a8f9b3a1c6d7fd00ebe1
+Description:  Translation for luci-app-firewall - Română (Romanian)
+
+Package: luci-i18n-firewall-ru
+Version: git-23.093.43731-b672b90
+Depends: libc, luci-app-firewall
+Source: feeds/luci/applications/luci-app-firewall
+SourceName: luci-i18n-firewall-ru
+License: Apache-2.0
+Section: luci
+SourceDateEpoch: 1680523731
+Architecture: all
+Installed-Size: 8035
+Filename: luci-i18n-firewall-ru_git-23.093.43731-b672b90_all.ipk
+Size: 8879
+SHA256sum: eaff10cd4523bc550c8a2fe82573c04db0da45a6709a54aa3cba4ec43a834288
+Description:  Translation for luci-app-firewall - Русский (Russian)
+
+Package: luci-i18n-firewall-sk
+Version: git-23.093.43731-b672b90
+Depends: libc, luci-app-firewall
+Source: feeds/luci/applications/luci-app-firewall
+SourceName: luci-i18n-firewall-sk
+License: Apache-2.0
+Section: luci
+SourceDateEpoch: 1680523731
+Architecture: all
+Installed-Size: 3737
+Filename: luci-i18n-firewall-sk_git-23.093.43731-b672b90_all.ipk
+Size: 4540
+SHA256sum: 2772bee21037a6359450a0e263d82dced40a77e556e7f173d721f95764ce8cdf
+Description:  Translation for luci-app-firewall - Slovenčina (Slovak)
+
+Package: luci-i18n-firewall-sv
+Version: git-23.093.43731-b672b90
+Depends: libc, luci-app-firewall
+Source: feeds/luci/applications/luci-app-firewall
+SourceName: luci-i18n-firewall-sv
+License: Apache-2.0
+Section: luci
+SourceDateEpoch: 1680523731
+Architecture: all
+Installed-Size: 3059
+Filename: luci-i18n-firewall-sv_git-23.093.43731-b672b90_all.ipk
+Size: 3855
+SHA256sum: 83c9fa25fc0d87de17d4ce457def8d62331dd5fe950edc972cbdf85358415758
+Description:  Translation for luci-app-firewall - Svenska (Swedish)
+
+Package: luci-i18n-firewall-tr
+Version: git-23.093.43731-b672b90
+Depends: libc, luci-app-firewall
+Source: feeds/luci/applications/luci-app-firewall
+SourceName: luci-i18n-firewall-tr
+License: Apache-2.0
+Section: luci
+SourceDateEpoch: 1680523731
+Architecture: all
+Installed-Size: 6815
+Filename: luci-i18n-firewall-tr_git-23.093.43731-b672b90_all.ipk
+Size: 7650
+SHA256sum: 32c3c5bbd872ab29bac8ea8bcd8f1161d96dcd4e6f9a1b95d85a85b878062c64
+Description:  Translation for luci-app-firewall - Türkçe (Turkish)
+
+Package: luci-i18n-firewall-uk
+Version: git-23.093.43731-b672b90
+Depends: libc, luci-app-firewall
+Source: feeds/luci/applications/luci-app-firewall
+SourceName: luci-i18n-firewall-uk
+License: Apache-2.0
+Section: luci
+SourceDateEpoch: 1680523731
+Architecture: all
+Installed-Size: 7643
+Filename: luci-i18n-firewall-uk_git-23.093.43731-b672b90_all.ipk
+Size: 8507
+SHA256sum: 3c90d7811a768aed2c9199da6a17212e1bf26e1910171875beb15e7425f44597
+Description:  Translation for luci-app-firewall - Українська (Ukrainian)
+
+Package: luci-i18n-firewall-vi
+Version: git-23.093.43731-b672b90
+Depends: libc, luci-app-firewall
+Source: feeds/luci/applications/luci-app-firewall
+SourceName: luci-i18n-firewall-vi
+License: Apache-2.0
+Section: luci
+SourceDateEpoch: 1680523731
+Architecture: all
+Installed-Size: 887
+Filename: luci-i18n-firewall-vi_git-23.093.43731-b672b90_all.ipk
+Size: 1724
+SHA256sum: cfae9b9c711368a0b0d6e6395d0412a0e33c451d9891919ffcc2ad97997dbae4
+Description:  Translation for luci-app-firewall - Tiếng Việt (Vietnamese)
+
+Package: luci-i18n-firewall-zh-cn
+Version: git-23.093.43731-b672b90
+Depends: libc, luci-app-firewall
+Source: feeds/luci/applications/luci-app-firewall
+SourceName: luci-i18n-firewall-zh-cn
+License: Apache-2.0
+Section: luci
+SourceDateEpoch: 1680523731
+Architecture: all
+Installed-Size: 6442
+Filename: luci-i18n-firewall-zh-cn_git-23.093.43731-b672b90_all.ipk
+Size: 7323
+SHA256sum: ed45269265be7145faafd1f69aa98fe5ee277d0f138c9631d9d362938e8c817e
+Description:  Translation for luci-app-firewall - 简体中文 (Chinese Simplified)
+
+Package: luci-i18n-firewall-zh-tw
+Version: git-23.093.43731-b672b90
+Depends: libc, luci-app-firewall
+Source: feeds/luci/applications/luci-app-firewall
+SourceName: luci-i18n-firewall-zh-tw
+License: Apache-2.0
+Section: luci
+SourceDateEpoch: 1680523731
+Architecture: all
+Installed-Size: 6730
+Filename: luci-i18n-firewall-zh-tw_git-23.093.43731-b672b90_all.ipk
+Size: 7607
+SHA256sum: 0b1ff8218bb39b29fc8243a4ab4df5a05d69aa5d04d79a1498c61970c5a8d1bb
+Description:  Translation for luci-app-firewall - 繁體中文 (Chinese Traditional)
+
